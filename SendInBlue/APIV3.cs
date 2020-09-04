@@ -11,7 +11,7 @@ namespace SendInBlue
 {
     public class APIV3
     {
-        public string base_url = "https://api.sendinblue.com/v2.0/";
+        public string base_url = "https://api.sendinblue.com/v3/";
         public string accessId = "";
         public int timeout;
 
